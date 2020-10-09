@@ -1,5 +1,6 @@
 // Delaered require's
 const express = require("express");
+const fs = require("fs");
 
 // Express variable and local port
 var app = express();
@@ -12,7 +13,7 @@ app.use("/assets", express.static("./assets"));
 
 // Requier's for the index and ip routes
 require("./routes/indexRoutes")(app);
-// require("./routes/apiRoutes")(app);
+require("./routes/apiRoutes")(app);
 
 // app listen and function
 app.listen(PORT, function() {
