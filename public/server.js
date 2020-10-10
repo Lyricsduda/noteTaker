@@ -4,7 +4,7 @@ const fs = require("fs");
 
 // Express variable and local port
 var app = express();
-var PORT = process.env/PORT || 8080;
+var PORT = process.env.PORT || 8080;
 
 // Data parsing and assets
 app.use(express.urlencoded({ extended: true }));
