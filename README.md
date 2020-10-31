@@ -17,7 +17,7 @@ I was tasked to create a nore taking application to allow the user to write and 
 
 * [Deployment](#deployment)  
          
-* [Other Work](#other work) 
+* [Other Work](#otherwork) 
 
 ## Installation
 
