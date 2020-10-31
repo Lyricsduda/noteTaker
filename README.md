@@ -28,8 +28,6 @@ To install necessary dependencies, run the following command:
 This project is under the MIT license.
 
 
-> npm i
-
 ## Screenshots
 
 ![image](https://user-images.githubusercontent.com/70404735/95642560-2e5a7c00-0a77-11eb-813d-889eb1e88f82.png)
@@ -40,12 +38,7 @@ This project is under the MIT license.
 https://notetaker111.herokuapp.com
 
 
-## License
-
-This project is under the MIT license.
-
-
-## Other Work
+## OtherWork
         
 You can find more of my work at [Lyricsduda](https://github.com/Lyricsduda).
         
