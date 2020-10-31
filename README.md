@@ -23,6 +23,8 @@ I was tasked to create a nore taking application to allow the user to write and 
 
 To install necessary dependencies, run the following command:
 
+> npm i
+
 ## License
 
 This project is under the MIT license.
