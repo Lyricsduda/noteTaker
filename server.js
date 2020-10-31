@@ -9,11 +9,11 @@ var PORT = process.env.PORT || 8080;
 // Data parsing and assets
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
-app.use("/assets", express.static("./assets"));
+app.use("/assets", express.static("./public/assets"));
 
 // Requier's for the index and ip routes
-require("./routes/indexRoutes")(app);
-require("./routes/apiRoutes")(app);
+require("./public/routes/indexRoutes")(app);
+require("./public/routes/apiRoutes")(app);
 
 // app listen and function
 app.listen(PORT, function() {
