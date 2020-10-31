@@ -17,11 +17,16 @@ I was tasked to create a nore taking application to allow the user to write and 
 
 * [Deployment](#deployment)  
          
-* [Other Work](#otherwork) 
+* [OtherWork](#otherwork) 
 
 ## Installation
 
 To install necessary dependencies, run the following command:
+
+## License
+
+This project is under the MIT license.
+
 
 > npm i
 
